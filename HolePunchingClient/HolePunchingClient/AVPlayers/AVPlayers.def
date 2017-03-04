@@ -1,0 +1,7 @@
+; AVPlayers.def : Declares the module parameters for the DLL.
+
+LIBRARY      "AVPlayers"
+DESCRIPTION  'AVPlayers Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
