@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HolePunchingServer", "HolePunchingServer\HolePunchingServer.vcproj", "{F2993B53-C712-4994-B4A8-F6836D46898D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F2993B53-C712-4994-B4A8-F6836D46898D}.Debug.ActiveCfg = Debug|Win32
+		{F2993B53-C712-4994-B4A8-F6836D46898D}.Debug.Build.0 = Debug|Win32
+		{F2993B53-C712-4994-B4A8-F6836D46898D}.Release.ActiveCfg = Release|Win32
+		{F2993B53-C712-4994-B4A8-F6836D46898D}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
