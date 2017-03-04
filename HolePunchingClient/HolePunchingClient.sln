@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HolePunchingClient", "HolePunchingClient\HolePunchingClient.vcxproj", "{1F66CDFF-B949-4878-8554-90FA16AA58B0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVPlayers", "HolePunchingClient\AVPlayers\AVPlayers.vcxproj", "{4F06C398-CB37-438F-B6BE-F244A23C5583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F66CDFF-B949-4878-8554-90FA16AA58B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F66CDFF-B949-4878-8554-90FA16AA58B0}.Debug|Win32.Build.0 = Debug|Win32
+		{1F66CDFF-B949-4878-8554-90FA16AA58B0}.Release|Win32.ActiveCfg = Release|Win32
+		{1F66CDFF-B949-4878-8554-90FA16AA58B0}.Release|Win32.Build.0 = Release|Win32
+		{4F06C398-CB37-438F-B6BE-F244A23C5583}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F06C398-CB37-438F-B6BE-F244A23C5583}.Debug|Win32.Build.0 = Debug|Win32
+		{4F06C398-CB37-438F-B6BE-F244A23C5583}.Release|Win32.ActiveCfg = Release|Win32
+		{4F06C398-CB37-438F-B6BE-F244A23C5583}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
